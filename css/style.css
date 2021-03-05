@@ -18,13 +18,24 @@ p{
 }
 
 .mobile{
-    width: 50%;
+    width: auto;
     height: auto;
-    float: left;
+    display: block;
+    margin: auto;
+}
+
+.center{
+    text-align: center;
 }
 
 body{
     background-color: darkgray;
+}
+
+#map{
+    width: auto;
+    display: block;
+    margin: auto;
 }
 
 
